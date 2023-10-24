@@ -1,0 +1,17 @@
+#title {
+    background-color: #030303;
+    color: white;
+}
+.team{
+    width: 200px;
+    height: 250px;
+    border-radius: 40%;
+}
+th{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.btn-primary {
+    font-size: 12px;
+  }
+  
